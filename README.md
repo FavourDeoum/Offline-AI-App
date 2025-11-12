@@ -1,11 +1,10 @@
-Perfect 👌 Here’s a **professional, SEED-ready `README.md`** for your validated project:
 
 ---
 
 ```markdown
 # Offline-First AI Tutor for GCE Students  
 **Group 11 – SEED Inc. Innovation Program**  
-**Team Members:** Tayuh Favour (PM) • Nditafon Grace • Njomen Jeanson  
+**Team Members:** Tayuh Favour (PM) • Nditafon Grace • Njomen Jeanson • Sale Aieshatou • Neba Stanislas 
 
 ---
 
